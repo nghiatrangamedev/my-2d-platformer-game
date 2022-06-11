@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Sword
+  - Enemy
+  - Boss
+  - Bound
   layers:
   - Default
   - TransparentFX
